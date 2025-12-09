@@ -1,0 +1,16 @@
+[project]
+name = "slutt-oppgave-programering"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "imdbinfo>=0.6.3",
+    "isbnlib>=3.10.14",
+    "setuptools>=80.9.0",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=9.0.1",
+]
