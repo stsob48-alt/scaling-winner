@@ -1,7 +1,9 @@
 
-uv astral
-```uv run main.py
+### uv astral
 ```
-From normal venv
-```python main.py
+uv run main.py
+```
+### From normal venv
+```
+python main.py
 ```
